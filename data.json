@@ -23,7 +23,23 @@
         "institute":"Vikas",
         "data":["2014","85%"]
       }
-
+  ],
+  "skills":[
+    {
+      "title":"languages",
+      "content":["C","Python","Java","C#","C++","PHP"]
+    },
+    {
+    "title":"Data Base",
+    "content":["SQL","MongoDB","MySql"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","CSS","JavaScript","PHP"]
+  },
+  {
+    "title":"Frameworks",
+    "content":["Django","CodeIgniter"]
+  }
   ]
-
 }
